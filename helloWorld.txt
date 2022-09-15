@@ -1,2 +1,0 @@
-<i class="fa fa-header" aria-hidden="true"></i>
-bug 1
